@@ -1,0 +1,12 @@
+body{
+  background-color: #1e3250;
+  color: aliceblue;
+}
+
+.city{
+  font-size: 32px;
+}
+
+.temp{
+  font-size: 64px;
+}
